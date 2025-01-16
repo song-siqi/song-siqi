@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am [Siqi Song](https://song-siqi.github.io/).
+
+![](https://github-readme-stats.vercel.app/api?username=song-siqi&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=song-siqi&layout=compact)
 
 <!--
 **song-siqi/song-siqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
